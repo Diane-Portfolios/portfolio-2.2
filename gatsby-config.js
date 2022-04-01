@@ -23,7 +23,7 @@ module.exports = {
       options: {
         navigation: [
           { name: `About`, slug: `/about` },
-          { name: `Education`, slug: `/education` },
+          // { name: `Education`, slug: `/education` },
           { name: `Projects`, slug: `/projects` },
           { name: `Contact`, slug: `/contact` },
         ],
